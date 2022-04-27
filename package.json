@@ -1,7 +1,7 @@
 {
-  "name": "uso-de-prompt",
+  "name": "descuento",
   "version": "1.0.0",
-  "description": "ejercicio de descuento",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
